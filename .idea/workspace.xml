@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21edb7a6-2a73-4678-b2f6-ae63a84866d8" name="Changes" comment="">
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/.gitignore" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/.idea/misc.xml" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/build.gradle.kts" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/gradle.properties" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/gradlew" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/gradlew.bat" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/settings.gradle.kts" afterDir="false" />
-      <change afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="21edb7a6-2a73-4678-b2f6-ae63a84866d8" name="Changes" comment="cosas de recursividad">
+      <change beforePath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/.idea/workspace.xml" beforeDir="false" afterPath="/dades/HugoAlonso/M03/UF2/temitasRecursivos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="/dades/HugoAlonso/M03/UF2/temitasRecursivos" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -57,7 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Build temitasRecursivos.executor": "Run",
-    "Kotlin.MainKt.executor": "Debug",
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -95,6 +72,10 @@
       <updated>1705389916032</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cosas de recursividad" />
+    <option name="LAST_COMMIT_MESSAGE" value="cosas de recursividad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
